@@ -1,4 +1,4 @@
-package com.alibou.websocket.chatroom;
+package com.lewi.websocket.chatroom;
 
 import org.springframework.data.mongodb.repository.MongoRepository;
 
