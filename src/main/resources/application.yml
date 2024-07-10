@@ -1,11 +1,11 @@
 spring:
   data:
     mongodb:
-      username: AthenaLewi
-      password: Zxc123@#$
+      username: wanjohilewi7
+      password: uFOsUKjVvXRK8Smd
       host: localhost
       port: 27017
-      database: chat_app
-      authentication-database: admin
+      database: wave-api-db
+      authentication-database: 	SCRAM
 server:
   port: 8088
